@@ -2,3 +2,5 @@ AGUM RESOLUSI 2022
 - OK
 - OK2
 - OK3
+- OK4
+- OK5
